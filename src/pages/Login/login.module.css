@@ -1,0 +1,11 @@
+.formWrapper {
+    background-color: #d5d2d2;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.errorMessage {
+    color: red;
+}

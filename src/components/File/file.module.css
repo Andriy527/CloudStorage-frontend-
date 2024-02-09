@@ -1,0 +1,16 @@
+.file {
+    width: 33%;
+    background-color: #fff;
+    padding: 15px;
+    margin: 15px;
+    border: 2px solid black;
+}
+
+.fileImage {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.file.selectedFile {
+    border: 2px dotted red;
+}

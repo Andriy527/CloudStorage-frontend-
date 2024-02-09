@@ -1,0 +1,7 @@
+.container {
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    border: 4px dotted grey;
+    padding: 30px;
+}
